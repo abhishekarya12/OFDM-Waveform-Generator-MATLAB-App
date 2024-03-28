@@ -34,9 +34,3 @@ This MATLAB app is designed to generate OFDM (Orthogonal Frequency Division Mult
 
 ## Author
    [Abhishek]
-
----
-
-Replace `[Your Name]` with your name or the name of your organization. You can also customize the sections, features, and instructions based on your specific project needs. Don't forget to include a license file (`LICENSE`) in your repository.
-
-This README provides a brief overview of your MATLAB app project, its features, how to use it, and information for contributors and licensing. It's a good starting point for users and contributors to understand your project and get started with it.
